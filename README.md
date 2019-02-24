@@ -15,8 +15,8 @@ Lista os detalhes do filme: Título, Resumo, Ano de Lançamento e Diretor.
 
 Você precisa ter instalado o Node e Yarn.
 
-(NodeJS - Windows) [https://nodejs.org/en/#download]
-(yarn - Windows) [https://yarnpkg.com/lang/en/docs/install/#windows-stable]
+* (NodeJS - Windows) [https://nodejs.org/en/#download]
+* (yarn - Windows) [https://yarnpkg.com/lang/en/docs/install/#windows-stable]
 
 ```
 $ git clone https://github.com/felipebuchmann/starwarsmovieguide.git

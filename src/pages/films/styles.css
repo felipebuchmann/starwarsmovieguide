@@ -1,0 +1,37 @@
+h1.titulo , p, a {
+    color: #FFF;
+}
+
+.interna {
+    display: flex;
+    justify-content: center;
+    padding: 60px 20px;
+}
+
+
+.thumb-filme {
+    max-width: 25%;
+    margin: 0 20px;
+}
+
+.descricao {
+    max-width: 50%;
+}
+
+@media (max-width: 600px) 
+{
+    .interna  {
+        display: inherit;
+    }
+
+    .thumb-filme {
+        width: 100%;
+        max-width: 100%;
+        margin: 0 20px;
+    }
+    
+    .descricao {
+        width: 100%;
+        max-width: 100%;
+    }
+}

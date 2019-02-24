@@ -1,0 +1,80 @@
+.list-movies {
+    margin: 20px;
+    padding: 30px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.capa {
+    margin: 20px 90px;
+    text-align: center;
+}
+
+.filmes{
+    background:#DDD;
+    box-sizing: border-box;
+    width: 195px;
+    height: 250px;
+    border:3px solid #000;
+    border-left: 0;
+    -webkit-border-top-right-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -moz-border-radius-bottomright: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+h2 {
+    font-size: 17px;
+    color:#FFF;
+}
+
+h3 {
+    font-size: 13px;
+    color: #FFF;
+}
+
+.capa-do-filme {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+
+.episodio_1 {
+    background: url(../../imgs/episodio_1.jpg);
+}
+
+.episodio_2 {
+    background: url(../../imgs/episodio_2.jpg);    
+}
+
+.episodio_3 {
+    background: url(../../imgs/episodio_3.jpg);   
+}
+
+.episodio_4 {
+    background: url(../../imgs/episodio_4.jpg);   
+}
+
+.episodio_5 {
+    background: url(../../imgs/episodio_5.jpg);   
+}
+
+.episodio_6 {
+    background: url(../../imgs/episodio_6.jpg);    
+}
+
+.episodio_7 {
+    background: url(../../imgs/episodio_7.jpg);   
+}
